@@ -100,8 +100,7 @@
     "unlimitedStorage",
     "webNavigation",
     "webRequest",
-    "webRequestBlocking",
-    "<all_urls>"
+    "webRequestBlocking"
   ],
   "short_name": "uBlock₀",
   "sidebar_action": {
