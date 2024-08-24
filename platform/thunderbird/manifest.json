@@ -83,8 +83,7 @@
     "tabs",
     "webNavigation",
     "webRequest",
-    "webRequestBlocking",
-    "<all_urls>"
+    "webRequestBlocking"
   ],
   "short_name": "uBlock₀",
   "version": "1.9.15.101",
